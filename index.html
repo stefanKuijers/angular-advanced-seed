@@ -4,15 +4,21 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
 		<title>Angular Advanced Seed</title>
-		<link href="lib/ionic/css/ionic.css" rel="stylesheet">
-		<link href="css/style.css" rel="stylesheet">
+		<link href="assets/lib/bootstrap/bootstrap.css" rel="stylesheet">
 
-		<script src="assets/lib/jquery-1.11.1.min.js"></script>
+		<link href="assets/css/style.css" rel="stylesheet">
 
-		<script src="app/shared/service/api.js"></script>
 
-		<script src="app/component/controller/home/homeController.js"></script>
-		<script src="app/component/controller/myProfile/myProfileController.js"></script>
+		<!-- <script src="assets/lib/jquery/jquery-1.11.1.min.js"></script> -->
+		<script src="assets/lib/angular/angular.js"></script>
+		<script src="assets/lib/ui-bootstrap/ui-bootstrap-tpls-0.12.0.js"></script>
+		<script src="assets/lib/ui-router/angular-ui-router.min.js"></script>
+
+
+		<script src="app/shared/api/apiService.js"></script>
+
+		<script src="app/component/home/homeController.js"></script>
+		<script src="app/component/myProfile/myProfileController.js"></script>
 
 		<!-- <script src="js/directive/dosis_time.js"></script> -->
 
@@ -21,7 +27,15 @@
 	</head>
 	<body ng-app="aas">
 
-		index
+		<div>
+			<a ui-sref="home">home</a>
+		    <a ui-sref="my-profile">my profile</a>
+		</div>
+
+
+		<div ui-view>
+			index
+		</div>
 
 	</body>
 </html>

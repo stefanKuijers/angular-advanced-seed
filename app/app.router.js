@@ -11,12 +11,12 @@ angular.module(
 			.state('home', {
 				url:                     '/',
 				controller:              'HomeCtrl',
-				templateUrl:             'components/home/home.html'
+				templateUrl:             'app/component/home/homeView.html'
 			})
 			.state('my-profile', {
 				url:                     '/my-profile',
 				controller:              'MyProfileCtrl',
-				templateUrl:             'components/myProfile/my-profile.html'
+				templateUrl:             'app/component/myProfile/myProfileView.html'
 			})
 		;
 

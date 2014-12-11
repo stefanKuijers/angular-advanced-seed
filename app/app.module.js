@@ -1,6 +1,7 @@
 angular.module(
    'aas', 
    [
+      'ui.router',
       'aas.router'
    ]
 ).run(['$rootScope', function( $rootScope ) {

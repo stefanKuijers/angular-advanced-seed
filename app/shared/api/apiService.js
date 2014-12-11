@@ -1,5 +1,5 @@
 angular.module('aas.service.api', [])
-    .service('API', ['Phonestorage', function(Phonestorage) {
+    .service('API', [function(Phonestorage) {
         console.log( "API service loaded" );
 
         // the API object
