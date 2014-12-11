@@ -2,7 +2,9 @@ angular.module(
    'aas', 
    [
       'ui.router',
-      'aas.router'
+      'ui.bootstrap',
+      'aas.router',
+      'aas.controller.menu.dropDown'
    ]
 ).run(['$rootScope', function( $rootScope ) {
          console.log( "app init" );

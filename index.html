@@ -16,6 +16,7 @@
 
 
 		<script src="app/shared/api/apiService.js"></script>
+		<script src="app/shared/menu/dropDownController.js"></script>
 
 		<script src="app/component/home/homeController.js"></script>
 		<script src="app/component/myProfile/myProfileController.js"></script>
@@ -26,16 +27,12 @@
 		<script src="app/app.module.js"></script>
 	</head>
 	<body ng-app="aas">
-
-		<div>
-			<a ui-sref="home">home</a>
-		    <a ui-sref="my-profile">my profile</a>
-		</div>
-
+		<ng-include src="'app/shared/menu/menuView.html'"></ng-include>
 
 		<div ui-view>
 			index
 		</div>
 
+		<ng-include src="'app/shared/footer/footerView.html'"></ng-include>
 	</body>
 </html>
