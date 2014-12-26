@@ -1,0 +1,1969 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"$root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"ng",
+				"ng-class	AngularJS"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"multiple",
+				"multiple_choice"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"clear",
+				"clearTimeout"
+			],
+			[
+				"fade",
+				"fadeOut	.fadeOut()"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"label",
+				"control-label"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"CL_CLEAN",
+				"CL_CLEAN_DB"
+			],
+			[
+				"activities",
+				"activitiesByID"
+			],
+			[
+				"js-ad",
+				"js-advanced"
+			],
+			[
+				"each",
+				"each	$.each()"
+			],
+			[
+				"ea",
+				"each	$.each()"
+			],
+			[
+				"__",
+				"__log	js_log"
+			],
+			[
+				"js-advanced-search",
+				"js-advanced-search-term"
+			],
+			[
+				"search",
+				"search-result"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"extendD",
+				"extendDir"
+			],
+			[
+				"searchDe",
+				"searchDelayTime"
+			],
+			[
+				"col-md",
+				"col-md-12"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"slide",
+				"slideDown	.slideDown()"
+			],
+			[
+				"js-re",
+				"js-request-details"
+			],
+			[
+				"col-md-",
+				"col-md-5"
+			],
+			[
+				"admin_respon",
+				"admin_response_msg"
+			],
+			[
+				"documen",
+				"documentID"
+			],
+			[
+				"docuem",
+				"documentID"
+			],
+			[
+				"fields",
+				"fieldsValid"
+			],
+			[
+				"specialC",
+				"specialConditionsApply"
+			],
+			[
+				"sanitized",
+				"sanitizedFormData"
+			],
+			[
+				"special",
+				"specialConditionsApply"
+			],
+			[
+				"made_Test",
+				"made_test_check_model"
+			],
+			[
+				"made_test",
+				"made_test_object"
+			],
+			[
+				"al",
+				"alert-warning"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"saniti",
+				"sanitized_answer"
+			],
+			[
+				"sanitize",
+				"sanitize_answers"
+			],
+			[
+				"sanitiz",
+				"sanitized_value"
+			],
+			[
+				"prin",
+				"print_neat	php_print_neat"
+			],
+			[
+				"TYPE_",
+				"TYPE_QUESTION"
+			],
+			[
+				"inserted",
+				"inserted_question_id"
+			],
+			[
+				"Mogyo",
+				"Mogyoród"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"random_",
+				"random_background_4"
+			],
+			[
+				"time",
+				"setTimeout"
+			],
+			[
+				"cons",
+				"console.log"
+			],
+			[
+				"CONNECTION_",
+				"CONNECTION_ESTABLISHED"
+			],
+			[
+				"blog",
+				"blog-app"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"med_in",
+				"med_interaction_listener"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"TABLE_NAME",
+				"MED_TABLE_NAME"
+			],
+			[
+				"interaction",
+				"interaction_listener"
+			],
+			[
+				"medinterac",
+				"med_interaction_listener"
+			],
+			[
+				"med_hi",
+				"med_history_array"
+			],
+			[
+				"Interaction",
+				"Interaction_Status"
+			],
+			[
+				"white",
+				"white-space"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"border-top",
+				"border-top-color"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"table",
+				"table-column"
+			],
+			[
+				"history",
+				"history_day"
+			],
+			[
+				"notification",
+				"notification_object"
+			],
+			[
+				"med_list",
+				"med_list_length"
+			],
+			[
+				"notifica",
+				"notification_object"
+			],
+			[
+				"notifi",
+				"notification_object"
+			],
+			[
+				"med",
+				"med_list"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"clea",
+				"clearTimeout"
+			],
+			[
+				"border-",
+				"border-right"
+			],
+			[
+				"inner",
+				"innerHeight	.innerHeight"
+			],
+			[
+				"bacgroun",
+				"background-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"scroll_",
+				"scroll_up_el"
+			],
+			[
+				"inn",
+				"innerHeight	.innerHeight"
+			],
+			[
+				"border-bottom",
+				"border-bottom-width"
+			],
+			[
+				"border-bo",
+				"border-bottom-color"
+			],
+			[
+				"tablet_",
+				"med-icon-tablet_1"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"PHP",
+				"php"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"USER_DA",
+				"USER_DATA_TABLE_NAME"
+			],
+			[
+				"required",
+				"required_filters"
+			],
+			[
+				"interacion",
+				"interaction_index"
+			],
+			[
+				"popup",
+				"popup"
+			],
+			[
+				"Interval_Unit",
+				"Interval_Unit_id"
+			],
+			[
+				"prepared",
+				"prepared_dose"
+			],
+			[
+				"reminder",
+				"reminder_task_id"
+			],
+			[
+				"notifications",
+				"notifications_set"
+			],
+			[
+				"scheduled",
+				"scheduledIds"
+			],
+			[
+				"new_value",
+				"new_value"
+			],
+			[
+				"mouse",
+				"mousedown	mousedown"
+			],
+			[
+				"Interval_u",
+				"Interval_Unit_id"
+			],
+			[
+				"Interval_",
+				"Interval_Unit"
+			],
+			[
+				"get_met",
+				"get_med_listener"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"type",
+				"type	$.type()"
+			],
+			[
+				"setting_ke",
+				"setting_key_exp"
+			],
+			[
+				"sound_",
+				"sound_volume"
+			],
+			[
+				"vibra",
+				"vibration_input"
+			],
+			[
+				"delete",
+				"delete_from"
+			],
+			[
+				"update",
+				"update_at"
+			],
+			[
+				"noti",
+				"Notification"
+			],
+			[
+				"REMINDER",
+				"REMINDER_DOSIS_TABLE_NAME"
+			],
+			[
+				"RE",
+				"REMINDER_TABLE_NAME"
+			],
+			[
+				"date",
+				"date_time"
+			],
+			[
+				"meds",
+				"meds_string"
+			],
+			[
+				"user",
+				"user_response"
+			],
+			[
+				"us",
+				"user_response"
+			],
+			[
+				"take",
+				"take_med"
+			],
+			[
+				"po",
+				"postpowne"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 18,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test/karma.conf.js",
+			"settings":
+			{
+				"buffer_size": 1743,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/app.module.js",
+			"settings":
+			{
+				"buffer_size": 274,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1248,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test/app/app.module.spec.js",
+			"settings":
+			{
+				"buffer_size": 863,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test/app/component/home/homeController.spec.js",
+			"settings":
+			{
+				"buffer_size": 863,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/component/home/homeController.js",
+			"settings":
+			{
+				"buffer_size": 314,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"selected_items":
+		[
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"git ch",
+				"Git (SideBarGit): Checkout to…"
+			],
+			[
+				"git push",
+				"Git (SideBarGit): Push"
+			],
+			[
+				"git status",
+				"Git (SideBarGit): Status"
+			],
+			[
+				"git add",
+				"Git (SideBarGit): Add & Commit…"
+			],
+			[
+				"ig",
+				"Git (SideBarGit): Open Git Ignore"
+			],
+			[
+				"pull",
+				"Git (SideBarGit): Pull"
+			],
+			[
+				"pu",
+				"Git (SideBarGit): Push"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"commit",
+				"Git (SideBarGit): Commit…"
+			],
+			[
+				"git",
+				"Git (SideBarGit): Commit…"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git commit",
+				"Git (SideBarGit): Commit…"
+			],
+			[
+				"git comm",
+				"Git (SideBarGit): Commit…"
+			],
+			[
+				"git clone",
+				"Git (SideBarGit): Clone…"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"down",
+				"FTPSync: Download current file"
+			],
+			[
+				"gist",
+				"GitHub: Open Gist in Editor"
+			],
+			[
+				"toggle tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"view",
+				"View: Toggle Tabs"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"view ta",
+				"View: Toggle Tabs"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"snippet prin",
+				"Snippet: php_print_neat"
+			],
+			[
+				"dwn",
+				"FTPSync: Download current file"
+			],
+			[
+				"han",
+				"Snippet: handlebars_template"
+			],
+			[
+				"hand",
+				"Snippet: handlebars_template"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"dow",
+				"FTPSync: Download current file"
+			],
+			[
+				"download",
+				"FTPSync: Download current file"
+			],
+			[
+				"ftp",
+				"FTPSync: Download current file"
+			],
+			[
+				"auto",
+				"Auto indent"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"package Control",
+				"Package Control: Enable Package"
+			],
+			[
+				"packages",
+				"Package Control: Disable Package"
+			],
+			[
+				"format",
+				"Format Code"
+			],
+			[
+				"forma",
+				"Format Code"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"form",
+				"Format Code"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"frm",
+				"Format Code"
+			],
+			[
+				"for",
+				"Format Code"
+			],
+			[
+				"setting",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"formad",
+				"Format Code"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"REIN",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reub",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"set ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"synt js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			]
+		],
+		"width": 539.0
+	},
+	"console":
+	{
+		"height": 298.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"jshint",
+			"sublime.log_commands(False)",
+			"sublime.log_input(False)",
+			"sublime.log_input(false)",
+			"sublime.log_commands(True)",
+			"sublime.log_input(True)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/dev/angular-advanced-seed",
+		"/C/dev/angular-advanced-seed/app",
+		"/C/dev/angular-advanced-seed/app/component",
+		"/C/dev/angular-advanced-seed/assets",
+		"/C/dev/angular-advanced-seed/assets/lib",
+		"/C/dev/angular-advanced-seed/assets/lib/angular",
+		"/C/dev/angular-advanced-seed/node_modules",
+		"/C/dev/angular-advanced-seed/node_modules/angular-mocks",
+		"/C/dev/angular-advanced-seed/test",
+		"/C/dev/angular-advanced-seed/test/app",
+		"/C/dev/angular-advanced-seed/test/app/component"
+	],
+	"file_history":
+	[
+		"/C/dev/angular-advanced-seed/node_modules/jasmine-core/GOALS_2.0.md",
+		"/C/dev/language-terminal/assets/lib/ui-select/select.css",
+		"/C/dev/language-terminal/assets/css/style.css",
+		"/C/dev/language-terminal/index.html",
+		"/C/dev/language-terminal/app/shared/upload/uploadDirective.js",
+		"/C/dev/language-terminal/app/component/login/loginController.js",
+		"/C/dev/language-terminal/app/component/myProfile/myProfileView.html",
+		"/C/dev/language-terminal/app/shared/modal/modalSubjectFieldsController.js",
+		"/C/dev/language-terminal/app/shared/modal/modalLanguagePairsController.js",
+		"/C/dev/language-terminal/assets/lib/ui-slider/slider.css",
+		"/C/dev/language-terminal/app/shared/api/fakeDataService.js",
+		"/C/dev/language-terminal/app/component/myProfile/myProfileController.js",
+		"/C/dev/language-terminal/assets/lib/bootstrap/slider/bootstrap-slider.min.js",
+		"/C/dev/language-terminal/assets/lib/bootstrap/slider/bootstrap-slider.min.css",
+		"/C/dev/language-terminal/app/shared/api/apiService.js",
+		"/C/dev/language-terminal/app/shared/editablePanel/editablePanelDirective.js",
+		"/C/dev/language-terminal/app/shared/modal/modalLanguagePairsView.html",
+		"/C/dev/language-terminal/app/shared/modal/modalSubjectFieldsView.html",
+		"/C/dev/language-terminal/assets/lib/ui-slider/slider.js",
+		"/C/dev/language-terminal/app/shared/slider/sliderDirective.js",
+		"/C/dev/language-terminal/app/shared/menu/dropDownController.js",
+		"/C/dev/language-terminal/assets/lib/font-awesome/font-awesome-4.2.0/less/mixins.less",
+		"/C/dev/language-terminal/app/component/home/homeController.js",
+		"/C/dev/language-terminal/app/shared/menu/menuView.html",
+		"/C/dev/language-terminal/assets/lib/angular-file-upload/angular-file-upload.js",
+		"/C/dev/language-terminal/assets/lib/jquery-1.11.1.min.js",
+		"/C/dev/language-terminal/app/shared/loader/loaderView.html",
+		"/C/dev/language-terminal/app/shared/footer/footerView.html",
+		"/C/dev/language-terminal/app/component/login/loginView.html",
+		"/C/dev/language-terminal/app/component/home/homeView.html",
+		"/C/dev/language-terminal/assets/lib/font-awesome/font-awesome-4.2.0/less/variables.less",
+		"/C/dev/language-terminal/assets/lib/font-awesome/font-awesome-4.2.0/less/path.less",
+		"/C/dev/language-terminal/assets/lib/dropzone/dropzone.js",
+		"/C/dev/language-terminal/app/shared/panel/editablePanelDirective.js",
+		"/C/dev/language-terminal/assets/lib/font-awesome/font-awesome-4.2.0/less/core.less",
+		"/C/dev/language-terminal/assets/lib/font-awesome/font-awesome.min.css",
+		"/C/dev/language-terminal/ftpsync.settings",
+		"/C/dev/language-terminal/app/app.router.js",
+		"/C/dev/language-terminal/app/app.module.js",
+		"/C/dev/language-terminal/app/shared/api/apiAuthorizationFactory.js",
+		"/C/dev/language-terminal/language-terminal.sublime-project",
+		"/C/dev/language-terminal/assets/lib/ui-router/angular-ui-router.min.js",
+		"/C/dev/language-terminal/assets/lib/ui-router/angular-ui-router.js",
+		"/C/dev/language-terminal/assets/lib/font-awesome/font-awesome-4.2.0/less/rotated-flipped.less",
+		"/C/dev/angular-advanced-seed/angular-advanced-seed/LICENSE",
+		"/C/dev/angular-advanced-seed/index.html",
+		"/C/Users/S/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/S/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/dev/vv/vendor/symfony/config/Symfony/Component/Config/Tests/Loader/LoaderResolverTest.php",
+		"/C/dev/vv/controller/ControllerSurvey.php",
+		"/C/dev/vv/config.php",
+		"/C/dev/vv/view_admin/page_login.php",
+		"/C/dev/vv/Examples/Classes/PHPExcel/Calculation/Logical.php",
+		"/C/dev/vv/vendor/slim/slim/Slim/Log.php",
+		"/C/dev/vv/vendor/pdepend/pdepend/src/main/php/PDepend/Report/NoLogOutputException.php",
+		"/C/dev/vv/include/Lang.php",
+		"/C/dev/vv/vendor/phpunit/php-file-iterator/build/PHPCS/Sniffs/ControlStructures/ControlSignatureSniff.php",
+		"/C/dev/vv/include/DB.php",
+		"/C/dev/vv/assets/plugins/daterangepicker/daterangepicker-bs3.css",
+		"/C/dev/vv/vendor/monolog/monolog/src/Monolog/Handler/SyslogUdp/UdpSocket.php",
+		"/C/dev/vv/model/User.php",
+		"/C/dev/vv/assets/js/chart-builder.js",
+		"/C/dev/vv/assets/css/index.css",
+		"/C/dev/vv/view_admin/page_survey_chart-builder.php",
+		"/C/dev/vv/view_survey/page_survey_view.php",
+		"/C/dev/vv/view_admin/page_survey_list.php",
+		"/C/dev/vv/view_admin/page_survey_detail.php",
+		"/C/dev/vv/log/phperror.log",
+		"/C/dev/vv/vendor/phpunit/phpunit/tests/Regression/783.phpt",
+		"/C/dev/vv/vendor/phpunit/phpunit-mock-objects/tests/_files/GoogleSearch.wsdl",
+		"/C/dev/vv/vendor/phpunit/phpunit/tests/_files/SampleArrayAccess.php",
+		"/C/dev/vv/vendor/phpunit/phpunit/tests/_files/SelectorAssertionsFixture.html",
+		"/C/dev/vv/vendor/phpmailer/phpmailer/examples/styles/shCoreEclipse.css",
+		"/C/dev/vv/assets/js/survey-detail.js",
+		"/C/dev/vv/model/Question.php",
+		"/C/dev/vv/model/Survey.php",
+		"/C/dev/vv/view_admin/header.php",
+		"/C/dev/vv/view_admin/index.php",
+		"/C/dev/vv/view_admin/head.php",
+		"/C/dev/vv/assets/css/survey.css",
+		"/C/dev/vv/vendor/phpunit/phpunit/src/Framework/Constraint/ClassHasAttribute.php",
+		"/C/dev/vv/vendor/monolog/monolog/src/Monolog/Handler/CubeHandler.php",
+		"/C/dev/vv/view_survey/head.php",
+		"/C/dev/vv/index.php",
+		"/C/dev/vv/vendor/phpunit/phpunit/src/Framework/Constraint/IsNull.php",
+		"/C/dev/vv/.htaccess",
+		"/C/dev/vv/view_survey/question_type1.php",
+		"/C/dev/vv/view_survey/question_type2.php",
+		"/C/dev/vv/view_admin/page_question-detail.php",
+		"/C/dev/vv/assets/js/survey-list.js",
+		"/C/dev/vv/script.php",
+		"/C/dev/vv/view_admin/page_survey_add.php",
+		"/C/dev/vv/view_survey/page_surveytemplate2.php",
+		"/C/dev/vv/view_survey/page_surveytemplate1.php",
+		"/C/dev/vv/view_survey/page_survey.php",
+		"/C/dev/vv/view_admin/page_404.php",
+		"/C/dev/vv/model/Page.php",
+		"/C/dev/vv/assets/js/survey-question-detail-search.js",
+		"/C/dev/vv/assets/js/survey-question-detail-charts.js",
+		"/C/dev/vv/assets/js/survey-question-detail.js",
+		"/C/dev/vv/view_admin/page_survey_question-detail.php",
+		"/C/dev/vv/include/ExtensionIterator.php",
+		"/C/dev/vv/vendor/symfony/config/Symfony/Component/Config/Definition/EnumNode.php",
+		"/C/dev/vv/vendor/phpmailer/phpmailer/examples/smtp_no_auth.phps",
+		"/C/dev/vv/assets/css/base.css",
+		"/C/dev/vv/vendor/phpmailer/phpmailer/.scrutinizer.yml",
+		"/C/dev/vv/vendor/phpunit/phpunit/src/Framework/Comparator/DateTime.php",
+		"/C/dev/vv/vendor/phpunit/phpunit/tests/_files/DummyException.php",
+		"/C/Users/S/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/S/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/dev/vv_design/design_login.jpg",
+		"/C/dev/vv_design/design_survey_list.jpg",
+		"/C/dev/vv_design/design_question_analysis_free_text_search.jpg",
+		"/C/dev/vv_design/design_question_analysis.jpg",
+		"/C/dev/vv/controller/ControllerRegistration.php",
+		"/C/dev/vv/controller/ControllerLogin.php",
+		"/C/dev/vv/controller/Controller.php",
+		"/C/dev/vv/vv.sublime-project",
+		"/C/dev/vv/ftpsync.settings",
+		"/C/dev/vv/composer.lock",
+		"/C/dev/vv/composer.json",
+		"/C/dev/vv/api.php",
+		"/C/dev/vv/vendor/symfony/console/Symfony/Component/Console/Output/ConsoleOutput.php",
+		"/C/dev/vv/assets/fonts/font-awesome/scss/_variables.scss",
+		"/C/dev/vv/vendor/symfony/console/Symfony/Component/Console/Descriptor/DescriptorInterface.php",
+		"/C/dev/vv/assets/js/s_utils.js",
+		"/C/dev/vv/assets/plugins/date/date.js",
+		"/C/dev/vv/assets/plugins/parsley/CONTRIBUTING.md"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"C:\\Users\\S\\Desktop\\werk\\arteries\\baptistamedia",
+			"C:\\Users\\S\\Desktop\\werk\\arteries\\bible_school",
+			"",
+			"C:\\Users\\S\\Desktop\\zanto,C:\\Users\\S\\Desktop\\coller-pro",
+			"C:\\Users\\S\\Desktop\\zanto",
+			"C:\\Users\\S\\Desktop\\werk\\portfolio\\wp_site\\theme",
+			"C:\\dev\\project",
+			"C:\\Users\\S\\Desktop\\update",
+			"C:\\Users\\S\\Desktop\\cm-11-20140314-UNOFFICIAL-codina",
+			"C:\\Users\\S\\Desktop\\werk\\koomen\\backup\\20140319",
+			"C:\\Users\\S\\Desktop\\werk\\haut\\backup\\5-3-2014 full past clash\\wp-content\\themes\\flatsome",
+			"C:\\Users\\S\\Desktop\\werk\\haut\\backup\\5-3-2014 full past clash\\",
+			"C:\\Users\\S\\Desktop\\werk\\haut\\backup\\5-3-2014 full past clash\\wp-content\\",
+			"C:\\Users\\S\\Desktop\\werk\\haut\\backup\\5-3-2014 full past clash\\wp-content\\themes\\flatsome\\woocommerce",
+			"C:\\Users\\S\\Desktop\\werk\\haut\\backup\\3-3-2014 full\\wp-content\\themes\\flatsome",
+			"C:\\Users\\S\\Desktop\\werk\\haut\\backup\\06-02-2014\\wp-content\\plugins\\woocommerce\\",
+			"C:\\Users\\S\\Desktop\\werk\\haut\\backup\\06-02-2014\\wp-content\\themes\\flatsome\\",
+			"C:\\Users\\S\\Desktop\\werk\\haut\\backup\\06-02-2014\\wp-content\\themes\\flatsome\\woocommerce",
+			"C:\\Users\\S\\Desktop\\werk\\haut\\backup\\06-02-2014\\wp-content\\",
+			"C:\\Users\\S\\Desktop\\werk\\haut\\backup\\06-02-2014\\wp-content\\themes\\flatsome",
+			"C:\\Users\\S\\Desktop\\werk\\haut\\backup\\3-2-2014 complete\\wp-content\\",
+			"C:\\Users\\S\\Desktop\\werk\\haut\\backup\\3-2-2014 complete\\wp-content\\themes\\flatsome",
+			"C:\\Users\\S\\Desktop\\werk\\haut\\backup\\3-2-2014 complete\\wp-content\\plugins\\woocommerce",
+			"C:\\Users\\S\\Desktop\\werk\\haut\\backup\\3-2-2014 complete\\wp-content\\plugins"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"',\n",
+			"selected",
+			" ",
+			"(   ",
+			"city",
+			"),",
+			"”,",
+			"city",
+			"no-panel-data-msg",
+			"result",
+			":",
+			": ",
+			"alPan",
+			"pe.panel.id",
+			"template:",
+			"title: ",
+			"title.replace(/\\s+/g, '')",
+			"pair",
+			"item",
+			"data",
+			"items",
+			"var",
+			"items",
+			"row.id",
+			"= ",
+			"value:",
+			"angular-file-upload",
+			"]",
+			"[",
+			"modelData",
+			"fooBar",
+			"modalData",
+			":",
+			"panel",
+			"data",
+			"onVisibilitySelect",
+			"margin",
+			"footer",
+			"edit",
+			"var",
+			"dropzone",
+			"element",
+			"scope",
+			":",
+			"dropzone",
+			"title",
+			"if",
+			"ng-if",
+			"type=",
+			"md-3",
+			"div",
+			"button",
+			"rows:",
+			"tableHeaders:",
+			"order:",
+			"fields:",
+			"tableHeaders",
+			"statusId: 5,",
+			"statusId: 3,",
+			"Id: 3",
+			"master",
+			"margin",
+			"API",
+			"ack) {",
+			"// contruct url based on data",
+			"value:",
+			"// panel id in the database could be used to determine which fields belong to which panel or... panel_group for example",
+			"order:",
+			"item",
+			"    id:",
+			"Id:",
+			"id:",
+			":",
+			"value:",
+			"statusLabel:",
+			"master",
+			":",
+			"this",
+			"status:",
+			"Status:",
+			"status:",
+			" type:",
+			"value",
+			"type:",
+			"memberSince",
+			"oragnization",
+			"degree",
+			"Degree",
+			"degree",
+			"institution",
+			"Institution",
+			"institution",
+			"experience",
+			"version",
+			"tool",
+			": ",
+			"exper",
+			"field:",
+			":",
+			"experience:",
+			"target:",
+			"name",
+			"ticket",
+			"tickets",
+			"- ",
+			"/ti",
+			": ",
+			"get",
+			":",
+			"7",
+			"$db",
+			"forgetLogin",
+			"updateFilter",
+			"no-result-msg",
+			"script",
+			"loader",
+			"getQuestionList",
+			".question-detail",
+			"handleQuestionChange",
+			"<a class=\"tooltip",
+			"$.cb.filterQuestionData",
+			"getChart",
+			"js-questions-select2",
+			"8",
+			"label",
+			"label class=\"col-md-2 label-control\"",
+			"complem",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test/karma.conf.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1743,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								556,
+								556
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/app.module.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								274
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								325,
+								325
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "test/app/app.module.spec.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								863,
+								0
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "test/app/component/home/homeController.spec.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								863,
+								863
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/component/home/homeController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"project": "aas.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"test\\app\\app.module.spec.js"
+			],
+			[
+				"home",
+				"app\\component\\home\\homeController.js"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"service",
+				"app\\shared\\api\\apiService.js"
+			],
+			[
+				"slider.",
+				"assets\\lib\\ui-slider\\slider.css"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"slider",
+				"app\\shared\\slider\\sliderDirective.js"
+			],
+			[
+				"controll",
+				"app\\shared\\modal\\modalLanguagePairsController.js"
+			],
+			[
+				"my",
+				"app\\component\\myProfile\\myProfileController.js"
+			],
+			[
+				"fake",
+				"app\\shared\\api\\fakeDataService.js"
+			],
+			[
+				"styel",
+				"assets\\css\\style.css"
+			],
+			[
+				"view",
+				"app\\component\\myProfile\\myProfileView.html"
+			],
+			[
+				"panel",
+				"app\\shared\\editablePanel\\editablePanelDirective.js"
+			],
+			[
+				"profile",
+				"app\\component\\myProfile\\myProfileView.html"
+			],
+			[
+				"drop",
+				"app\\shared\\dropzone\\dropzoneDirective.js"
+			],
+			[
+				"dropzone",
+				"app\\shared\\dropzone\\dropzoneDirective.js"
+			],
+			[
+				"dr",
+				"assets\\lib\\dropzone\\dropzone.js"
+			],
+			[
+				"st",
+				"assets\\css\\style.css"
+			],
+			[
+				"style",
+				"assets\\css\\style.css"
+			],
+			[
+				"profilc",
+				"app\\component\\myProfile\\myProfileController.js"
+			],
+			[
+				"dire",
+				"app\\shared\\editablePanel\\editablePanelDirective.js"
+			],
+			[
+				"direc",
+				"app\\shared\\panel\\editablePanelDirective.js"
+			],
+			[
+				"fak",
+				"app\\shared\\api\\fakeDataService.js"
+			],
+			[
+				"profilvi",
+				"app\\component\\myProfile\\myProfileView.html"
+			],
+			[
+				"api",
+				"app\\shared\\api\\apiService.js"
+			],
+			[
+				"contro",
+				"app\\component\\myProfile\\myProfileController.js"
+			],
+			[
+				"login",
+				"app\\component\\login\\loginController.js"
+			],
+			[
+				"router",
+				"app\\app.router.js"
+			],
+			[
+				"lo",
+				"app\\component\\login\\loginController.js"
+			],
+			[
+				"rout",
+				"app\\app.router.js"
+			],
+			[
+				"controllve",
+				"vv\\controller\\ControllerSurvey.php"
+			],
+			[
+				"user",
+				"vv\\model\\User.php"
+			],
+			[
+				"page_survey",
+				"vv\\view_admin\\page_survey_detail.php"
+			],
+			[
+				"surveyjs",
+				"vv\\assets\\js\\survey-detail.js"
+			],
+			[
+				"survey",
+				"vv\\model\\Survey.php"
+			],
+			[
+				"question",
+				"vv\\model\\Question.php"
+			],
+			[
+				"chart",
+				"vv\\assets\\js\\chart-builder.js"
+			],
+			[
+				"index.",
+				"vv\\assets\\css\\index.css"
+			],
+			[
+				"questi",
+				"vv\\model\\Question.php"
+			],
+			[
+				"db",
+				"vv\\include\\DB.php"
+			],
+			[
+				"db.",
+				"vv\\include\\DB.php"
+			],
+			[
+				"char",
+				"vv\\view_admin\\tmpl\\chart_tmpl.php"
+			],
+			[
+				"chartjs",
+				"vv\\assets\\js\\survey-question-detail-charts.js"
+			],
+			[
+				"chart_tmpl",
+				"vv\\view_admin\\tmpl\\chart_tmpl.php"
+			],
+			[
+				"que",
+				"vv\\model\\Question.php"
+			],
+			[
+				"page_surve",
+				"vv\\view_admin\\page_survey_question-detail.php"
+			],
+			[
+				"search",
+				"vv\\assets\\js\\survey-question-detail-search.js"
+			],
+			[
+				"config",
+				"vv\\config.php"
+			],
+			[
+				"header",
+				"vv\\view_admin\\header.php"
+			],
+			[
+				"head",
+				"vv\\view_admin\\head.php"
+			],
+			[
+				"index.c",
+				"vv\\assets\\css\\index.css"
+			],
+			[
+				"page_chart",
+				"vv\\view_admin\\page_survey_chart-builder.php"
+			],
+			[
+				".css",
+				"vv\\assets\\css\\index.css"
+			],
+			[
+				"survey.",
+				"vv\\model\\Survey.php"
+			],
+			[
+				"survey_de",
+				"vv\\view_admin\\page_survey_detail.php"
+			],
+			[
+				"detail",
+				"vv\\view_admin\\page_survey_question-detail.php"
+			],
+			[
+				"question-detail",
+				"vv\\assets\\js\\survey-question-detail.js"
+			],
+			[
+				"js/",
+				"blog_project\\js\\blog-app.js"
+			],
+			[
+				"auto",
+				"baptistamedia\\include\\Autoload.php"
+			],
+			[
+				"vali",
+				"baptistamedia\\include\\Validator.php"
+			],
+			[
+				"page_file",
+				"baptistamedia\\view\\page_filemanager-search-templates.php"
+			],
+			[
+				"page_",
+				"baptistamedia\\view\\page_filemanager.php"
+			],
+			[
+				"file",
+				"baptistamedia\\assets\\js\\file-manager.js"
+			],
+			[
+				"searc",
+				"baptistamedia\\assets\\js\\search.js"
+			],
+			[
+				"page.",
+				"baptistamedia\\model\\Page.php"
+			],
+			[
+				"s_",
+				"baptistamedia\\assets\\js\\s_util.js"
+			],
+			[
+				"api.",
+				"baptistamedia\\include\\api.json"
+			],
+			[
+				"page_event",
+				"baptistamedia\\view\\page_events_calendar.php"
+			],
+			[
+				"event",
+				"baptistamedia\\assets\\js\\eventsCalendar.js"
+			],
+			[
+				"model/file",
+				"baptistamedia\\model\\Filemanager.php"
+			],
+			[
+				"page",
+				"baptistamedia\\model\\Page.php"
+			],
+			[
+				"search.",
+				"baptistamedia\\assets\\js\\search.js"
+			],
+			[
+				"u",
+				"baptistamedia\\model\\User.php"
+			],
+			[
+				"user.ph",
+				"baptistamedia\\model\\User.php"
+			],
+			[
+				"filemanger",
+				"baptistamedia\\assets\\js\\file-manager.js"
+			],
+			[
+				"page_filem",
+				"baptistamedia\\view\\page_filemanager.php"
+			],
+			[
+				"ftp",
+				"baptistamedia\\ftpsync.settings"
+			],
+			[
+				"/controller/file",
+				"baptistamedia\\controller\\ControllerFilemanager.php"
+			],
+			[
+				"user.",
+				"baptistamedia\\model\\User.php"
+			],
+			[
+				"make",
+				"bible_school\\view_admin\\page_test_make.php"
+			],
+			[
+				"menu",
+				"bible_school\\view_admin\\menu.php"
+			],
+			[
+				"api.j",
+				"bible_school\\include\\api.json"
+			],
+			[
+				"misc",
+				"baptisztamedia\\include\\Misc.php"
+			],
+			[
+				"valida",
+				"baptisztamedia\\include\\Validate.php"
+			],
+			[
+				"upl",
+				"baptisztamedia\\upload.php"
+			],
+			[
+				"page_user",
+				"baptisztamedia\\view\\page_users_list.php"
+			],
+			[
+				"over",
+				"project\\www\\view\\overzicht.html"
+			],
+			[
+				"med",
+				"project\\www\\js\\controller\\med_detail.js"
+			],
+			[
+				"time",
+				"project\\www\\view\\ui\\time-picker.html"
+			],
+			[
+				"ned",
+				"project\\www\\view\\new-med-scan.html"
+			],
+			[
+				"sty",
+				"project\\www\\css\\style.css"
+			],
+			[
+				"medjs",
+				"project\\www\\js\\controller\\med_detail.js"
+			],
+			[
+				"md",
+				"project\\www\\view\\medicijn-detail.html"
+			],
+			[
+				"js",
+				"C:\\Users\\S\\AppData\\Local\\Temp\\fz3temp-1\\designer.js"
+			],
+			[
+				"des",
+				"C:\\Users\\S\\AppData\\Local\\Temp\\fz3temp-1\\Designer_class.php"
+			],
+			[
+				"d",
+				"C:\\Users\\S\\AppData\\Local\\Temp\\fz3temp-1\\designer.php"
+			],
+			[
+				"de",
+				"C:\\Users\\S\\AppData\\Local\\Temp\\fz3temp-1\\designer.php"
+			],
+			[
+				"/",
+				"C:\\Users\\S\\AppData\\Local\\Temp\\fz3temp-1\\designer.php"
+			],
+			[
+				"cla",
+				"C:\\Users\\S\\AppData\\Local\\Temp\\fz3temp-1\\Designer_class.php"
+			],
+			[
+				"clas",
+				"C:\\Users\\S\\AppData\\Local\\Temp\\fz3temp-1\\Designer_class.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\dev\\yo-ng-gen\\yeoman-angular-seed.sublime-project"
+			],
+			[
+				"ad",
+				"C:\\dev\\angular-advanced-seed\\angular-advanced-seed\\language-terminal.sublime-workspace"
+			],
+			[
+				"bas",
+				"C:\\dev\\baptistamedia.sublime-workspace"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 490.0,
+		"selected_items":
+		[
+			[
+				"run",
+				"run"
+			],
+			[
+				"parse",
+				"parse"
+			],
+			[
+				"",
+				"!=="
+			],
+			[
+				"!==",
+				"!=="
+			]
+		],
+		"width": 490.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
