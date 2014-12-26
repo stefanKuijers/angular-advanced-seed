@@ -16,7 +16,7 @@
 
 
 		<script src="app/shared/api/apiService.js"></script>
-		<script src="app/shared/menu/dropDownController.js"></script>
+		<!-- <script src="app/shared/menu/dropDownController.js"></script> -->
 
 		<script src="app/component/home/homeController.js"></script>
 		<script src="app/component/myProfile/myProfileController.js"></script>
@@ -27,12 +27,12 @@
 		<script src="app/app.module.js"></script>
 	</head>
 	<body ng-app="aas" class="panel">
-		<ng-include src="'app/shared/menu/menuView.html'"></ng-include>
+		<ng-include src="'app/shared/layout/menu/menuView.html'"></ng-include>
 
 		<div ui-view>
 			index
 		</div>
 
-		<ng-include src="'app/shared/footer/footerView.html'"></ng-include>
+		<ng-include src="'app/shared/layout/footerView.html'"></ng-include>
 	</body>
 </html>
