@@ -520,50 +520,58 @@
 	"buffers":
 	[
 		{
-			"file": ".gitignore",
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 18,
+				"buffer_size": 1264,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "test/karma.conf.js",
+			"file": "GruntFile.js",
 			"settings":
 			{
-				"buffer_size": 1743,
-				"line_ending": "Unix"
+				"buffer_size": 334,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 429,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/shared/layout/menu/menuView.html",
+			"settings":
+			{
+				"buffer_size": 773,
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "app/app.module.js",
 			"settings":
 			{
-				"buffer_size": 274,
+				"buffer_size": 295,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "index.html",
+			"file": "bower_components/angular/README.md",
 			"settings":
 			{
-				"buffer_size": 1248,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "test/app/app.module.spec.js",
-			"settings":
-			{
-				"buffer_size": 863,
-				"line_ending": "Windows"
+				"buffer_size": 2144,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "test/app/component/home/homeController.spec.js",
 			"settings":
 			{
-				"buffer_size": 863,
+				"buffer_size": 1046,
 				"line_ending": "Windows"
 			}
 		},
@@ -571,7 +579,7 @@
 			"file": "app/component/home/homeController.js",
 			"settings":
 			{
-				"buffer_size": 314,
+				"buffer_size": 350,
 				"line_ending": "Windows"
 			}
 		}
@@ -579,9 +587,13 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 490.0,
+		"height": 185.0,
 		"selected_items":
 		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
 			[
 				"rein",
 				"Indentation: Reindent Lines"
@@ -689,10 +701,6 @@
 			[
 				"git ",
 				"Git: Commit"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"package ena",
@@ -895,7 +903,7 @@
 				"Convert Case: Upper Case"
 			]
 		],
-		"width": 539.0
+		"width": 912.0
 	},
 	"console":
 	{
@@ -924,19 +932,31 @@
 	"expanded_folders":
 	[
 		"/C/dev/angular-advanced-seed",
-		"/C/dev/angular-advanced-seed/app",
 		"/C/dev/angular-advanced-seed/app/component",
-		"/C/dev/angular-advanced-seed/assets",
-		"/C/dev/angular-advanced-seed/assets/lib",
-		"/C/dev/angular-advanced-seed/assets/lib/angular",
-		"/C/dev/angular-advanced-seed/node_modules",
-		"/C/dev/angular-advanced-seed/node_modules/angular-mocks",
-		"/C/dev/angular-advanced-seed/test",
+		"/C/dev/angular-advanced-seed/app/component/home",
+		"/C/dev/angular-advanced-seed/app/component/myProfile",
+		"/C/dev/angular-advanced-seed/app/shared",
+		"/C/dev/angular-advanced-seed/app/shared/layout",
+		"/C/dev/angular-advanced-seed/app/shared/layout/menu",
 		"/C/dev/angular-advanced-seed/test/app",
 		"/C/dev/angular-advanced-seed/test/app/component"
 	],
 	"file_history":
 	[
+		"/C/dev/angular-advanced-seed/node_modules/karma-chrome-launcher/test/jsflags.spec.js",
+		"/C/dev/angular-advanced-seed/aas.sublime-project",
+		"/C/dev/angular-advanced-seed/node_modules/jasmine-core/.idea/scopes/scope_settings.xml",
+		"/C/dev/angular-advanced-seed/.gitignore",
+		"/C/dev/angular-advanced-seed/LICENSE",
+		"/C/dev/angular-advanced-seed/app/shared/layout/menu/dropDownController.js",
+		"/C/dev/angular-advanced-seed/app/component/myProfile/myProfileController.js",
+		"/C/dev/angular-advanced-seed/app/component/home/homeController.js",
+		"/C/dev/angular-advanced-seed/test/app/component/home/homeController.spec.js",
+		"/C/dev/angular-advanced-seed/test/karma.conf.js",
+		"/C/dev/angular-advanced-seed/app/app.module.js",
+		"/C/dev/angular-advanced-seed/index.html",
+		"/C/dev/angular-advanced-seed/test/app/app.module.spec.js",
+		"/C/dev/angular-advanced-seed/app/shared/api/apiService.js",
 		"/C/dev/angular-advanced-seed/node_modules/jasmine-core/GOALS_2.0.md",
 		"/C/dev/language-terminal/assets/lib/ui-select/select.css",
 		"/C/dev/language-terminal/assets/css/style.css",
@@ -982,7 +1002,6 @@
 		"/C/dev/language-terminal/assets/lib/ui-router/angular-ui-router.js",
 		"/C/dev/language-terminal/assets/lib/font-awesome/font-awesome-4.2.0/less/rotated-flipped.less",
 		"/C/dev/angular-advanced-seed/angular-advanced-seed/LICENSE",
-		"/C/dev/angular-advanced-seed/index.html",
 		"/C/Users/S/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
 		"/C/Users/S/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
 		"/C/dev/vv/vendor/symfony/config/Symfony/Component/Config/Tests/Loader/LoaderResolverTest.php",
@@ -1051,20 +1070,7 @@
 		"/C/dev/vv_design/design_survey_list.jpg",
 		"/C/dev/vv_design/design_question_analysis_free_text_search.jpg",
 		"/C/dev/vv_design/design_question_analysis.jpg",
-		"/C/dev/vv/controller/ControllerRegistration.php",
-		"/C/dev/vv/controller/ControllerLogin.php",
-		"/C/dev/vv/controller/Controller.php",
-		"/C/dev/vv/vv.sublime-project",
-		"/C/dev/vv/ftpsync.settings",
-		"/C/dev/vv/composer.lock",
-		"/C/dev/vv/composer.json",
-		"/C/dev/vv/api.php",
-		"/C/dev/vv/vendor/symfony/console/Symfony/Component/Console/Output/ConsoleOutput.php",
-		"/C/dev/vv/assets/fonts/font-awesome/scss/_variables.scss",
-		"/C/dev/vv/vendor/symfony/console/Symfony/Component/Console/Descriptor/DescriptorInterface.php",
-		"/C/dev/vv/assets/js/s_utils.js",
-		"/C/dev/vv/assets/plugins/date/date.js",
-		"/C/dev/vv/assets/plugins/parsley/CONTRIBUTING.md"
+		"/C/dev/vv/controller/ControllerRegistration.php"
 	],
 	"find":
 	{
@@ -1106,6 +1112,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"ctrl",
 			"',\n",
 			"selected",
 			" ",
@@ -1232,8 +1239,7 @@
 			"8",
 			"label",
 			"label class=\"col-md-2 label-control\"",
-			"complem",
-			"div"
+			"complem"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1251,109 +1257,24 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": ".gitignore",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 18,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								18,
-								18
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "test/karma.conf.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1743,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								556,
-								556
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": -0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "app/app.module.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 274,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								274,
-								274
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1248,
+						"buffer_size": 1264,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								325,
-								325
+								935,
+								935
 							]
 						],
 						"settings":
@@ -1364,24 +1285,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "test/app/app.module.spec.js",
+					"buffer": 1,
+					"file": "GruntFile.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 863,
+						"buffer_size": 334,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								863,
-								0
+								190,
+								190
 							]
 						],
 						"settings":
@@ -1397,25 +1318,80 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "test/app/component/home/homeController.spec.js",
+					"buffer": 2,
+					"file": "README.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 863,
+						"buffer_size": 429,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								863,
-								863
+								429,
+								429
 							]
 						],
 						"settings":
 						{
-							"open_with_edit": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/shared/layout/menu/menuView.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 773,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								282,
+								282
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/app.module.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								295,
+								295
+							]
+						],
+						"settings":
+						{
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
@@ -1426,31 +1402,87 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "app/component/home/homeController.js",
-					"semi_transient": false,
+					"buffer": 5,
+					"file": "bower_components/angular/README.md",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 314,
+						"buffer_size": 2144,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								76,
-								84
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "test/app/component/home/homeController.spec.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1046,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1034,
+								1034
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jasmine JS/syntax/Jasmine.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/component/home/homeController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								226
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
-						"translation.x": -0.0,
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 6,
 					"type": "text"
 				}
 			]
@@ -1508,15 +1540,31 @@
 		[
 			[
 				"",
-				"test\\app\\app.module.spec.js"
+				"app\\app.module.js"
 			],
 			[
 				"home",
 				"app\\component\\home\\homeController.js"
 			],
 			[
+				".spec",
+				"test\\app\\component\\home\\homeController.spec.js"
+			],
+			[
+				"app.",
+				"app\\app.module.js"
+			],
+			[
+				"menu",
+				"app\\shared\\layout\\menu\\menuView.html"
+			],
+			[
 				"index",
 				"index.html"
+			],
+			[
+				"app",
+				"app\\app.module.js"
 			],
 			[
 				"service",
@@ -1827,10 +1875,6 @@
 				"bible_school\\view_admin\\page_test_make.php"
 			],
 			[
-				"menu",
-				"bible_school\\view_admin\\menu.php"
-			],
-			[
 				"api.j",
 				"bible_school\\include\\api.json"
 			],
@@ -1961,7 +2005,7 @@
 	"show_open_files": true,
 	"show_tabs": false,
 	"side_bar_visible": true,
-	"side_bar_width": 255.0,
+	"side_bar_width": 469.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
