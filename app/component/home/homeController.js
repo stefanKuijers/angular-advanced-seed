@@ -1,4 +1,4 @@
-angular.module('aas.controller.home', ['aas.service.api'])
+angular.module('aas.component.home.controller', ['aas.shared.api.service'])
     .controller('HomeCtrl', ['$scope', '$filter', 'API', function($scope, $filter, API) {
         console.log( "Home controller" );
 

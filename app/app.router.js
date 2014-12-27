@@ -1,8 +1,8 @@
 angular.module(
 	'aas.router', 
 	[
-		'aas.controller.home',
-		'aas.controller.myProfile'
+		'aas.component.home.controller',
+		'aas.component.myProfile.controller'
 	]
 ).config(
 	['$stateProvider', '$urlRouterProvider', function($stateProvider, $urlRouterProvider) {
