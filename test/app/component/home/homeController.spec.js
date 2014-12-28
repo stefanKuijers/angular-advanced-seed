@@ -10,27 +10,27 @@ describe('AAS: HomeCtrl', function() {
         // Create a new scope that's a child of the $rootScope
         scope = $rootScope.$new();
 
-        
-        homeController = $controller('HomeCtrl', {
-            $scope: scope
+        // homeController === scope.vm in the tests
+        homeController = $controller('HomeCtrl as vm', {
+            '$scope': scope
         });
     }));
 
 
     it('should have a function called add which adds stuff to scope.count', function() {
-            expect(scope.add).toBeDefined();
+        expect(scope.vm.add).toBeDefined();
 
-            // add spy
-            spyOn( scope, 'add' ).and.callThrough();
+        // add spy
+        spyOn( scope.vm, 'add' ).and.callThrough();
 
-            // call and ask spy
-            scope.add( 2 );
-            expect(scope.add).toHaveBeenCalledWith( 2 );
-            
-            expect(scope.count).toBe( 3 );
+        // call and ask spy
+        scope.vm.add( 2 );
+        expect(scope.vm.add).toHaveBeenCalledWith( 2 );
+        
+        expect(scope.vm.count).toBe( 3 );
     });
 
     it('should have a property foo set to the instance of the controller', function() {
-            expect(homeController.foo).toBeDefined();
+        expect(scope.vm.foo).toBeDefined();
     });
 });
