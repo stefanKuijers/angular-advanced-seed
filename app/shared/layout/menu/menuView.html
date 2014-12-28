@@ -1,23 +1,48 @@
-<header class="navbar navbar-default">
+<header class="navbar navbar-default" ng-controller="MenuController as menuCtrl">
 	<div class="navbar-inner">
 		<div class="container">
 			<nav>
-				<ul class="nav navbar-nav">
-					<a ui-sref="home" role="button" class="navbar-brand">
-						Home
-					</a>
-					
-					<li class="dropdown" dropdown>
-                        <a role="button" class="dropdown-toggle" dropdown-toggle aria-haspopup="true" aria-expanded="false">
-                            Pages <b class="caret"></b>
+                <ul class="nav navbar-nav" >
+                    <li ng-class="{active: menuCtrl.isActive(0)}">
+                        <a ui-sref="home" role="button" class="navbar-brand" ng-click="menuCtrl.setActive(0)">
+                            Home
+                        </a>
+                    </li>
+
+                    <li class="dropdown hover-open" ng-class="{active: menuCtrl.isActive(1)}">
+                        <a role="button" class="dropdown-toggle navbar-brand">
+                            Projects
                         </a>
                         <ul class="dropdown-menu">
-							<li><a ui-sref="my-profile">second page</a></li>
-					        <li><a href="#">third</a></li>
-					        <li><a href="#">fourth</a></li>                        
-					    </ul>
+                            <li ng-repeat="project in menuCtrl.projects" ng-click="menuCtrl.setActive(1)">
+                                <a ui-sref="{{project.sref}}">{{project.title}}</a>
+                            </li>                   
+                        </ul>
                     </li>
-				</ul>
+                </ul>
+
+                <!-- a search directive -->
+                <aas-searchbox></aas-searchbox>
+
+                <!-- dropdown on click for more options -->
+                <!-- <ul class="nav navbar-nav navbar-right">
+                    <li class="dropdown" dropdown>
+                        <a role="button" class="dropdown-toggle" dropdown-toggle>
+                            Longusernamehere <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu user-dropdown">
+                            <li><a ui-sref="my-profile">My profile</a></li>
+                            <li class="divider"></li>
+                            <li><a href="#">Clients</a></li>
+                            <li><a href="#">Vendors</a></li>
+                            <li><a href="#">Price matrixes</a></li>  
+                            <li class="divider"></li>           
+                            <li><a href="#">Login and settings</a></li> 
+                            <li class="divider"></li> 
+                            <li><a ui-sref="login">Logout</a></li> 
+                        </ul>
+                    </li>
+                </ul> -->
 			</nav>
 		</div>
 	</div>

@@ -1,0 +1,12 @@
+.ani-fade.ng-hide-add,
+.ani-fade.ng-hide-remove {
+    -webkit-transition:0.2s linear all;
+    transition:0.2s linear all;
+
+    /* remember to add this */
+    display:block!important;
+    opacity:1;
+}
+.ani-fade.ng-hide {
+    opacity:0;
+}

@@ -1,0 +1,18 @@
+<form class="navbar-form navbar-left" role="search">
+    <div class="form-group form-group-search">
+        <input 
+            type="text" 
+            placeholder="{{placeholder}}" 
+            ng-model="searchterm"
+            ng-change="userInput()"
+            class="form-control search-input" 
+        >
+
+        <span class="search-icon ani-fade" ng-show="!searching" ng-animate="'animate'">
+            <i class="fa fa-search"></i>
+        </span>
+        <span class="search-icon ani-fade" ng-show="searching" ng-animate="'animate'">
+            <i class="fa fa-refresh fa-spin"></i>
+        </span>
+    </div>
+</form>

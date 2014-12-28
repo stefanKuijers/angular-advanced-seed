@@ -1,16 +1,15 @@
-angular.module(
-   'aas', 
-   [
+window.App = angular.module(
+    'aas', 
+    [
+      'ngAnimate',
+
       'ui.router',
       'ui.bootstrap',
-      'aas.router'
-      // 'aas.controller.menu.dropDown'
-   ]
+
+      'aas.router',
+      'aas.shared.layout.menu.controller'
+    ]
 ).run(['$rootScope', function( $rootScope ) {
-         console.log( "app init" );
-         
-         
-         $rootScope.testValue = [1,2,3];
-      }
-   ]
+        console.log( "app init" );
+    }]
 );

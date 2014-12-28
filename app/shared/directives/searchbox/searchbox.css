@@ -1,0 +1,10 @@
+aas-searchbox .form-group-search {
+    position: relative;
+}
+
+aas-searchbox .search-icon, 
+aas-searchbox .searching-icon {
+    position: absolute;
+    right   : 9px;
+    top     : 7px;
+}

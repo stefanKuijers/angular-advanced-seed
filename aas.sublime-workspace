@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"it",
+				"it	it() testing"
+			],
+			[
 				"$root",
 				"$rootScope	AngularJS"
 			],
@@ -510,28 +514,30 @@
 			[
 				"take",
 				"take_med"
-			],
-			[
-				"po",
-				"postpowne"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
+			"contents": "<!DOCTYPE html>\n<html>\n	<head>\n		<meta charset=\"utf-8\">\n		<meta name=\"viewport\" content=\"initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width\">\n		<title>Angular Advanced Seed</title>\n		<link href=\"assets/lib/bootstrap/bootstrap.css\" rel=\"stylesheet\">\n\n		<link href=\"assets/css/style.css\" rel=\"stylesheet\">\n\n\n		<!-- <script src=\"assets/lib/jquery/jquery-1.11.1.min.js\"></script> -->\n		<script src=\"assets/lib/angular/angular.js\"></script>\n		<script src=\"assets/lib/ui-bootstrap/ui-bootstrap-tpls-0.12.0.js\"></script>\n		<script src=\"assets/lib/ui-router/angular-ui-router.min.js\"></script>\n\n		<script src=\"app/shared/api/apiService.js\"></script>\n		<script src=\"app/shared/layout/menu/menuController.js\"></script>\n\n		<script src=\"app/component/home/homeController.js\"></script>\n        <script src=\"app/component/project/projectController.js\"></script>\n        <script src=\"app/component/myProfile/myProfileController.js\"></script>\n\n		<!-- <script src=\"js/directive/dosis_time.js\"></script> -->\n\n		<script src=\"app/app.router.js\"></script>\n		<script src=\"app/app.module.js\"></script>\n	</head>\n	<body ng-app=\"aas\" class=\"panel\">\n		<ng-include src=\"'app/shared/layout/menu/menuView.html'\"></ng-include>\n\n		<div ui-view>\n			index\n		</div>\n\n		<ng-include src=\"'app/shared/layout/footerView.html'\"></ng-include>\n	</body>\n</html>",
 			"file": "index.html",
+			"file_size": 1377,
+			"file_write_time": 130642446192414666,
 			"settings":
 			{
-				"buffer_size": 1264,
+				"buffer_size": 1338,
 				"line_ending": "Windows"
 			}
 		},
 		{
+			"contents": "angular-advanced-seed\n=====================\n\nA angular seed project for setting up medium to large angular applications\n\nFile structure as suggested by Adnan Kukic\nhttp://scotch.io/tutorials/javascript/angularjs-best-practices-directory-structure\n\n\nTODO\nMo\n[O] Switch to bower as package manager instead of npm to reduce page load\n[O] extend menu\n[O] Switch from Jasmine to Mocha. \n\nS\n[O] Use the config() to create contants\n[O] Implement simple API call\n\nCo\n[O] Implement Basic Authenication \n\nW\n\nDONE\n[X] Further update file structure\n[X] Rewrite dependency Injection structure to match the file structure",
 			"file": "README.md",
+			"file_size": 631,
+			"file_write_time": 130642488711961606,
 			"settings":
 			{
-				"buffer_size": 429,
+				"buffer_size": 607,
 				"line_ending": "Windows"
 			}
 		},
@@ -539,18 +545,55 @@
 			"file": "app/shared/layout/menu/menuView.html",
 			"settings":
 			{
-				"buffer_size": 773,
+				"buffer_size": 2594,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "angular.module(\n   'aas', \n   [\n      'ui.router',\n      'ui.bootstrap',\n      'aas.router'\n   ]\n).run(['$rootScope', function( $rootScope ) {\n         console.log( \"app init\" );\n         \n         \n         $rootScope.testValue = [1,2,3];\n      }\n   ]\n);",
-			"file": "app/app.module.js",
-			"file_size": 310,
-			"file_write_time": 130641609730826481,
+			"file": "test/karma.conf.js",
 			"settings":
 			{
-				"buffer_size": 255,
+				"buffer_size": 1802,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/shared/directives/searchbox/searchboxDirective.js",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/shared/layout/menu/menuController.js",
+			"settings":
+			{
+				"buffer_size": 669,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "test/app/shared/layout/menu/menuController.spec.js",
+			"settings":
+			{
+				"buffer_size": 18,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/app.module.js",
+			"settings":
+			{
+				"buffer_size": 248,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/css/style.css",
+			"settings":
+			{
+				"buffer_size": 109,
 				"line_ending": "Windows"
 			}
 		},
@@ -558,7 +601,31 @@
 			"file": "app/app.router.js",
 			"settings":
 			{
-				"buffer_size": 638,
+				"buffer_size": 1110,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/component/project/projectController.js",
+			"settings":
+			{
+				"buffer_size": 286,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/component/home/homeView.html",
+			"settings":
+			{
+				"buffer_size": 13,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/component/project/projectView.html",
+			"settings":
+			{
+				"buffer_size": 51,
 				"line_ending": "Windows"
 			}
 		},
@@ -566,7 +633,7 @@
 			"file": "app/component/myProfile/myProfileController.js",
 			"settings":
 			{
-				"buffer_size": 233,
+				"buffer_size": 224,
 				"line_ending": "Windows"
 			}
 		},
@@ -574,15 +641,18 @@
 			"file": "app/shared/api/apiService.js",
 			"settings":
 			{
-				"buffer_size": 209,
+				"buffer_size": 218,
 				"line_ending": "Windows"
 			}
 		},
 		{
+			"contents": "describe('AAS: HomeCtrl -', function() {\n\n    beforeEach(module('aas'));\n\n    var homeCtrl;\n\n    beforeEach( inject( function($controller, $rootScope) {\n        scope = $rootScope.$new();\n\n        homeCtrl = $controller('HomeController', {\n            '$scope': scope\n        });\n\n        sinon.spy(homeCtrl, 'helloTo');\n    }));\n\n    describe('On initialization', function() {\n\n        it('should have a message set to value \"Hello\"', function() {\n            expect( homeCtrl.homeMessage ).to.equal( 'Hello' );\n\n        });\n\n        it('should illustrate a sinon spy', function() {\n            expect( homeCtrl.helloTo( \"you\" ) ).to.equal( \"Hello you\" );\n\n            expect(homeCtrl.helloTo.args[0][0]).to.equal('you');\n\n        });\n    });\n});\n\n",
 			"file": "test/app/component/home/homeController.spec.js",
+			"file_size": 777,
+			"file_write_time": 130642512020302997,
 			"settings":
 			{
-				"buffer_size": 1046,
+				"buffer_size": 749,
 				"line_ending": "Windows"
 			}
 		},
@@ -590,7 +660,7 @@
 			"file": "app/component/home/homeController.js",
 			"settings":
 			{
-				"buffer_size": 367,
+				"buffer_size": 307,
 				"line_ending": "Windows"
 			}
 		}
@@ -598,16 +668,28 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 185.0,
+		"height": 490.0,
 		"selected_items":
 		[
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
 			[
 				"install",
 				"Package Control: Install Package"
 			],
 			[
-				"rein",
-				"Indentation: Reindent Lines"
+				"html",
+				"Set Syntax: HTML"
 			],
 			[
 				"git ch",
@@ -750,10 +832,6 @@
 				"Set Syntax: SQL"
 			],
 			[
-				"remove",
-				"Package Control: Remove Package"
-			],
-			[
 				"disab",
 				"Package Control: Disable Package"
 			],
@@ -776,10 +854,6 @@
 			[
 				"php",
 				"Set Syntax: PHP"
-			],
-			[
-				"html",
-				"Set Syntax: HTML"
 			],
 			[
 				"list",
@@ -878,10 +952,6 @@
 				"Set Syntax: CSS"
 			],
 			[
-				"js",
-				"Set Syntax: JavaScript"
-			],
-			[
 				"set html",
 				"Set Syntax: HTML"
 			],
@@ -914,7 +984,7 @@
 				"Convert Case: Upper Case"
 			]
 		],
-		"width": 912.0
+		"width": 764.0
 	},
 	"console":
 	{
@@ -946,17 +1016,45 @@
 		"/C/dev/angular-advanced-seed/app",
 		"/C/dev/angular-advanced-seed/app/component",
 		"/C/dev/angular-advanced-seed/app/component/home",
-		"/C/dev/angular-advanced-seed/node_modules"
+		"/C/dev/angular-advanced-seed/app/shared",
+		"/C/dev/angular-advanced-seed/app/shared/directives",
+		"/C/dev/angular-advanced-seed/app/shared/layout/menu",
+		"/C/dev/angular-advanced-seed/test",
+		"/C/dev/angular-advanced-seed/test/app/component",
+		"/C/dev/angular-advanced-seed/test/app/component/home",
+		"/C/dev/angular-advanced-seed/test/app/shared",
+		"/C/dev/angular-advanced-seed/test/app/shared/layout",
+		"/C/dev/angular-advanced-seed/test/app/shared/layout/menu"
 	],
 	"file_history":
 	[
+		"/C/dev/angular-advanced-seed/test/crawler.spec.js",
+		"/C/dev/angular-advanced-seed/node_modules/karma/node_modules/http-proxy/examples/http/standalone-proxy.js",
+		"/C/dev/angular-advanced-seed/bower_components/bootstrap/less/responsive-embed.less",
+		"/C/dev/angular-advanced-seed/test/app/app.module.spec.js",
+		"/C/dev/angular-advanced-seed/node_modules/karma/bin/karma",
+		"/C/dev/angular-advanced-seed/node_modules/karma-chrome-launcher/test/jsflags.spec.js",
+		"/C/dev/angular-advanced-seed/bower_components/ui-bootstrap/src/modal/test/stackedMap.spec.js",
+		"/C/dev/angular-advanced-seed/node_modules/karma/node_modules/rimraf/test/setup.sh",
+		"/C/dev/angular-advanced-seed/node_modules/karma/node_modules/http-proxy/node_modules/utile/node_modules/mkdirp/test/perm_sync.js",
+		"/C/dev/angular-advanced-seed/node_modules/karma/node_modules/glob/test/stat.js",
+		"/C/dev/angular-advanced-seed/test/karma.conf.js",
+		"/C/dev/angular-advanced-seed/node_modules/karma/node_modules/colors/test.js",
+		"/C/dev/angular-advanced-seed/node_modules/karma/node_modules/rimraf/test/test-sync.js",
+		"/C/dev/angular-advanced-seed/bower_components/bootstrap/less/mixins/text-emphasis.less",
+		"/C/dev/angular-advanced-seed/bower_components/bootstrap/js/tab.js",
+		"/C/dev/angular-advanced-seed/bower_components/ui-bootstrap/ROADMAP.md",
+		"/C/dev/angular-advanced-seed/bower_components/ui-bootstrap/CHANGELOG.md",
+		"/C/dev/angular-advanced-seed/node_modules/karma/lib/init/color_schemes.js",
+		"/C/dev/angular-advanced-seed/node_modules/jasmine-core/.idea/codeStyleSettings.xml",
+		"/C/dev/angular-advanced-seed/assets/css/style.css",
+		"/C/dev/angular-advanced-seed/node_modules/jasmine-core/lib/jasmine-core/example/spec/SpecHelper.js",
+		"/C/dev/angular-advanced-seed/node_modules/jasmine-core/lib/jasmine-core/example/spec/PlayerSpec.js",
 		"/C/dev/angular-advanced-seed/package.json",
 		"/C/dev/angular-advanced-seed/bower_components/ui-router/src/urlRouter.js",
-		"/C/dev/angular-advanced-seed/bower_components/ui-bootstrap/ROADMAP.md",
 		"/C/dev/angular-advanced-seed/app/component/myProfile/myProfileView.html",
 		"/C/dev/angular-advanced-seed/bower_components/angular/package.json",
 		"/C/dev/angular-advanced-seed/Gruntfile.js",
-		"/C/dev/angular-advanced-seed/node_modules/karma-chrome-launcher/test/jsflags.spec.js",
 		"/C/dev/angular-advanced-seed/aas.sublime-project",
 		"/C/dev/angular-advanced-seed/node_modules/jasmine-core/.idea/scopes/scope_settings.xml",
 		"/C/dev/angular-advanced-seed/.gitignore",
@@ -965,10 +1063,8 @@
 		"/C/dev/angular-advanced-seed/app/component/myProfile/myProfileController.js",
 		"/C/dev/angular-advanced-seed/app/component/home/homeController.js",
 		"/C/dev/angular-advanced-seed/test/app/component/home/homeController.spec.js",
-		"/C/dev/angular-advanced-seed/test/karma.conf.js",
 		"/C/dev/angular-advanced-seed/app/app.module.js",
 		"/C/dev/angular-advanced-seed/index.html",
-		"/C/dev/angular-advanced-seed/test/app/app.module.spec.js",
 		"/C/dev/angular-advanced-seed/app/shared/api/apiService.js",
 		"/C/dev/angular-advanced-seed/node_modules/jasmine-core/GOALS_2.0.md",
 		"/C/dev/language-terminal/assets/lib/ui-select/select.css",
@@ -1059,25 +1155,7 @@
 		"/C/dev/vv/view_survey/question_type2.php",
 		"/C/dev/vv/view_admin/page_question-detail.php",
 		"/C/dev/vv/assets/js/survey-list.js",
-		"/C/dev/vv/script.php",
-		"/C/dev/vv/view_admin/page_survey_add.php",
-		"/C/dev/vv/view_survey/page_surveytemplate2.php",
-		"/C/dev/vv/view_survey/page_surveytemplate1.php",
-		"/C/dev/vv/view_survey/page_survey.php",
-		"/C/dev/vv/view_admin/page_404.php",
-		"/C/dev/vv/model/Page.php",
-		"/C/dev/vv/assets/js/survey-question-detail-search.js",
-		"/C/dev/vv/assets/js/survey-question-detail-charts.js",
-		"/C/dev/vv/assets/js/survey-question-detail.js",
-		"/C/dev/vv/view_admin/page_survey_question-detail.php",
-		"/C/dev/vv/include/ExtensionIterator.php",
-		"/C/dev/vv/vendor/symfony/config/Symfony/Component/Config/Definition/EnumNode.php",
-		"/C/dev/vv/vendor/phpmailer/phpmailer/examples/smtp_no_auth.phps",
-		"/C/dev/vv/assets/css/base.css",
-		"/C/dev/vv/vendor/phpmailer/phpmailer/.scrutinizer.yml",
-		"/C/dev/vv/vendor/phpunit/phpunit/src/Framework/Comparator/DateTime.php",
-		"/C/dev/vv/vendor/phpunit/phpunit/tests/_files/DummyException.php",
-		"/C/Users/S/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings"
+		"/C/dev/vv/script.php"
 	],
 	"find":
 	{
@@ -1119,6 +1197,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Hello",
+			"sref",
+			"myProfile",
+			"A",
+			"MyProfileController",
+			"homeController",
+			"1)",
+			"1",
+			"<li>",
+			"li>",
 			"myProfile",
 			"ctrl",
 			"',\n",
@@ -1236,17 +1324,7 @@
 			"updateFilter",
 			"no-result-msg",
 			"script",
-			"loader",
-			"getQuestionList",
-			".question-detail",
-			"handleQuestionChange",
-			"<a class=\"tooltip",
-			"$.cb.filterQuestionData",
-			"getChart",
-			"js-questions-select2",
-			"8",
-			"label",
-			"label class=\"col-md-2 label-control\""
+			"loader"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1264,7 +1342,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -1273,7 +1351,35 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1264,
+						"buffer_size": 1338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								606,
+								606
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 607,
 						"regions":
 						{
 						},
@@ -1286,7 +1392,92 @@
 						],
 						"settings":
 						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/shared/layout/menu/menuView.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2594,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1445,
+								1445
+							]
+						],
+						"settings":
+						{
 							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "test/karma.conf.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								920,
+								920
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/shared/directives/searchbox/searchboxDirective.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1296,25 +1487,55 @@
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "README.md",
+					"buffer": 5,
+					"file": "app/shared/layout/menu/menuController.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 429,
+						"buffer_size": 669,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								429,
-								429
+								479,
+								479
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "test/app/shared/layout/menu/menuController.spec.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1324,48 +1545,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "app/shared/layout/menu/menuView.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 773,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								282,
-								282
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
+					"buffer": 7,
 					"file": "app/app.module.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 255,
+						"buffer_size": 248,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								91,
-								91
+								248,
+								248
 							]
 						],
 						"settings":
@@ -1380,20 +1573,218 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "app/app.router.js",
+					"buffer": 8,
+					"file": "assets/css/style.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 638,
+						"buffer_size": 109,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								107,
-								107
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/app.router.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								967,
+								967
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/component/project/projectController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								276,
+								276
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/component/home/homeView.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								8
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "app/component/project/projectView.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 51,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "app/component/myProfile/myProfileController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								224,
+								224
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "app/shared/api/apiService.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 218,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								218,
+								218
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "test/app/component/home/homeController.spec.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 749,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								347,
+								347
 							]
 						],
 						"settings":
@@ -1408,115 +1799,31 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "app/component/myProfile/myProfileController.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 233,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								77,
-								55
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "app/shared/api/apiService.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 209,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								16,
-								38
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "test/app/component/home/homeController.spec.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1046,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1034,
-								1034
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jasmine JS/syntax/Jasmine.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
+					"buffer": 16,
 					"file": "app/component/home/homeController.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 367,
+						"buffer_size": 307,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								72,
-								72
+								184,
+								189
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
-						"translation.x": 0.0,
+						"translation.x": -0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -1524,7 +1831,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 40.0
+		"height": 26.0
 	},
 	"input":
 	{
@@ -1564,7 +1871,7 @@
 	"project": "aas.sublime-project",
 	"replace":
 	{
-		"height": 80.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1573,12 +1880,56 @@
 		"selected_items":
 		[
 			[
-				"router.js",
+				"",
+				"test\\karma.conf.js"
+			],
+			[
+				"app",
+				"app\\app.module.js"
+			],
+			[
+				"home",
+				"app\\component\\home\\homeController.js"
+			],
+			[
+				"karma",
+				"test\\karma.conf.js"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"test/spec.js",
+				"test\\app\\app.module.spec.js"
+			],
+			[
+				"menu",
+				"app\\shared\\layout\\menu\\menuView.html"
+			],
+			[
+				"myp",
+				"app\\component\\myProfile\\myProfileController.js"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"router",
 				"app\\app.router.js"
 			],
 			[
-				"",
-				"app\\app.module.js"
+				"style",
+				"assets\\css\\style.css"
+			],
+			[
+				"homec.spe",
+				"test\\app\\component\\home\\homeController.spec.js"
+			],
+			[
+				"router.js",
+				"app\\app.router.js"
 			],
 			[
 				"api",
@@ -1593,24 +1944,8 @@
 				"app\\app.router.js"
 			],
 			[
-				"home",
-				"app\\component\\home\\homeController.js"
-			],
-			[
 				".spec",
 				"test\\app\\component\\home\\homeController.spec.js"
-			],
-			[
-				"menu",
-				"app\\shared\\layout\\menu\\menuView.html"
-			],
-			[
-				"index",
-				"index.html"
-			],
-			[
-				"app",
-				"app\\app.module.js"
 			],
 			[
 				"service",
@@ -1669,10 +2004,6 @@
 				"assets\\css\\style.css"
 			],
 			[
-				"style",
-				"assets\\css\\style.css"
-			],
-			[
 				"profilc",
 				"app\\component\\myProfile\\myProfileController.js"
 			],
@@ -1699,10 +2030,6 @@
 			[
 				"login",
 				"app\\component\\login\\loginController.js"
-			],
-			[
-				"router",
-				"app\\app.router.js"
 			],
 			[
 				"lo",
@@ -1998,7 +2325,7 @@
 		[
 			[
 				"",
-				"C:\\dev\\yo-ng-gen\\yeoman-angular-seed.sublime-project"
+				"C:\\dev\\language-terminal\\language-terminal.sublime-project"
 			],
 			[
 				"ad",
@@ -2043,7 +2370,7 @@
 	"show_open_files": true,
 	"show_tabs": false,
 	"side_bar_visible": true,
-	"side_bar_width": 469.0,
+	"side_bar_width": 443.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

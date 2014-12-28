@@ -1,12 +1,11 @@
 angular.module('aas.component.home.controller', ['aas.shared.api.service'])
-    .controller('HomeCtrl', ['$scope', '$filter', 'API', function($scope, $filter, API) {
+    .controller('HomeController', ['API', function(API) {
         var vm = this;
 
-        vm.foo = "bar";
-        vm.count = 1;
+        vm.homeMessage = "Hello";
 
-        vm.add = function( value ) {
-            vm.count += value;
+        vm.helloTo = function( subject ) {
+            return vm.homeMessage + " " + subject;
         };
     }]
 );

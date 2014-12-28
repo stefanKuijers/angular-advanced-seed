@@ -1,3 +1,7 @@
 /*body {
 	background-color: black;
 }*/
+
+nav .dropdown.hover-open:hover .dropdown-menu {
+    display: block;
+}
